@@ -1,11 +1,11 @@
 # Reading Notes
 
-> This repo will document learnings and observations uncovered during the corresponding courses at *Code Fellows*
+> This repo documents learnings and observations uncovered during the corresponding courses at *Code Fellows*
 
-## Code 301 - Intermediate Software Development
+### Code 301 - Intermediate Software Development
 
-### Prep Module
+<details>
+  <summary>Prep Module</summary>
 
-- [x] Resolved questions or challenges will be checked
-- [ ] Open/unresolved items will be unchecked
-- [ ] ...
+- [Introduction to React and Components](code_301/intro_to_react_and_components.md)
+</details>
