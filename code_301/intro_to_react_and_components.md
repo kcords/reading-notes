@@ -1,6 +1,6 @@
 Components are central to the introduction to React as they are the entire basis of the React library.
 
-###Component-Based Architecture
+### Component-Based Architecture
 
 1. What is a “component”?
    - A reusable/modular block of code
