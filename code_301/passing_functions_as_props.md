@@ -24,3 +24,14 @@ What is the spread operator?
    * `const newArrWithAddlItem = [...arr, 'new item']`
 4. Give an example of using the spread operator to combine two objects into one.
    * `const combinedObj = {...obj1, ...obj2}`
+
+### How to Pass Functions Between Components
+
+1. In the video, what is the first step that the developer does to pass functions between components?
+   * Pass the method to update state as a prop
+2. In your own words, what does the increment function do?
+   * Creates a new `ppl` array from current state, then using `map`, increments the count on the person object whos `name` field matches the `name` parameter. It then sets that new array as the value for `people` in state
+3. How can you pass a method from a parent component into a child component?
+   * Pass the function/method as a prop to the child
+4. How does the child component invoke a method that was passed to it from a parent component?
+   * Call it just like any other callback function. In a React class component, it would look something like `this.props.propMethodName(expectedArg)`
