@@ -4,3 +4,4 @@
 - [React State and Props](code_301/react_state_and_props.md)
 - [Passing Functions as Props](code_301/passing_functions_as_props.md)
 - [React and Forms](code_301/react_and_forms.md)
+- [React thinking and higher order functions](code_301/react_thinking_hof.md)
