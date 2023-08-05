@@ -8,3 +8,5 @@
 - [Node.js](code_301/nodejs.md)
 - [Pair Programming](code_301/pair_programming.md)
 - [Rest API Design](code_301/rest_api_design.md)
+- [Node modules and exports](code_301/node_modules_exports.md)
+- [Functional Programming](code_301/functional_programming.md)
