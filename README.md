@@ -10,4 +10,6 @@
 - [Rest API Design](code_301/rest_api_design.md)
 - [Node modules and exports](code_301/node_modules_exports.md)
 - [Functional Programming](code_301/functional_programming.md)
+- [JavaScript Call Stack](code_301/javascript_call_stack.md)
+- [JavaScript Error Messages](code_301/javascript_error_messages.md)
 - [SQL vs NoSQL](code_301/sql_vs_nosql.md)
