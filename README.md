@@ -7,6 +7,7 @@
 - [React thinking and higher order functions](code_301/react_thinking_hof.md)
 - [Node.js](code_301/nodejs.md)
 - [Pair Programming](code_301/pair_programming.md)
+- [Rest](code/301/rest.md)
 - [Rest API Design](code_301/rest_api_design.md)
 - [Node modules and exports](code_301/node_modules_exports.md)
 - [Functional Programming](code_301/functional_programming.md)
