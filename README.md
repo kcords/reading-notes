@@ -16,6 +16,7 @@
 
 ### Databases
 - [SQL vs NoSQL](code_301/sql_vs_nosql.md)
+- [CRUD](code_301/crud.md)
 
 ### React
 - [Introduction to React and Components](code_301/intro_to_react_and_components.md)
