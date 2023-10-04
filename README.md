@@ -1,5 +1,9 @@
 ## Code 401 - Advanced Software Development
 
+### SQL
+
+- [Relational DB and SQL](code_401/relational_db_sql.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Javascript & Programming Concepts
