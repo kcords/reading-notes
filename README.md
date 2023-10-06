@@ -4,6 +4,10 @@
 
 - [Relational DB and SQL](code_401/relational_db_sql.md)
 
+### Misc
+
+- [Terminal and CLI commands](code_401/terminal_cli.md)
+
 ### Personal Development
 
 - [Growth Mindset](code_401/growth_mindset.md)
