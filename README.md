@@ -1,8 +1,19 @@
 ## Code 401 - Advanced Software Development
 
+### Python
+
+- [Learning Python](code_401/learning_python.md)
+
+### DSA
+
+- [Big-O Notation](code_401/big-O_intro.md)
 ### SQL
 
 - [Relational DB and SQL](code_401/relational_db_sql.md)
+
+### Misc
+
+- [Terminal and CLI commands](code_401/terminal_cli.md)
 
 ### Personal Development
 
