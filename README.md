@@ -10,6 +10,7 @@
 ### DSA
 
 - [Big-O Notation](code_401/big-O_intro.md)
+-
 ### SQL
 
 - [Relational DB and SQL](code_401/relational_db_sql.md)
@@ -17,6 +18,7 @@
 ### Misc
 
 - [Terminal and CLI commands](code_401/terminal_cli.md)
+- [Random module, test coverage, and risk analysis](code_401/random_risk_testcoverage_bigO.md)
 
 ### Personal Development
 
