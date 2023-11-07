@@ -7,6 +7,7 @@
 - [File IO and Exceptions](code_401/file_IO_and_exceptions.md)
 - [Classes and Objects + Recursion](code_401/classes_objects_recursion.md)
 - [Scope](code_401/scope.md)
+- [List comprehensions and Decorators](code_401/comprehensions_decorators.md)
 
 ### DSA
 
